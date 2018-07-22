@@ -1,0 +1,4 @@
+BeyStadium Attack Type (MFB),BeyStadium_Attack_Type_(MFB).html,,Number:BB-10,System:Metal Fight Beyblade,
+BeyStadium Balance Type,BeyStadium_Balance_Type.html,,Number:BB-14,System:Metal Fight Beyblade,
+BeyStadium Super Attack Type,BeyStadium_Super_Attack_Type.html,,Number:BB-41,System:Metal Fight Beyblade,
+Pegasus Thunder Whip Stadium,Pegasus_Thunder_Whip_Stadium.html,,Number:None,System:Metal Fight Beyblade,

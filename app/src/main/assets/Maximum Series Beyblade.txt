@@ -1,0 +1,3 @@
+Basalt Horogium 145WD,Basalt_Horogium_145WD.html,,Number:BB-104,System:Metal Fight Beyblade,Type:Defense,
+Flame Byxis 230WD,Flame_Byxis_230WD.html,,Number:BB-95,System:Metal Fight Beyblade,Type:Balance,
+Hell Kerbecs BD145DS,Hell_Kerbecs_BD145DS.html,,Number:BB-99,System:Metal Fight Beyblade,Type:Stamina,

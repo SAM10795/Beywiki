@@ -1,0 +1,5 @@
+Banking,Banking.html
+Catapult Shoot,Catapult_Shoot.html
+Gattyaki,Gattyaki.html
+Sliding Shoot,Sliding_Shoot.html
+Weak Shooting,Weak_Shooting.html

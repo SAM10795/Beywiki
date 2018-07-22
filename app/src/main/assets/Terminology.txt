@@ -1,0 +1,16 @@
+Abbreviations,Abbreviations.html
+Attack,Attack.html
+Balance,Balance.html
+Bit Protector,Bit_Protector.html
+Customize Weight Disks,Customize_Weight_Disks.html
+Defense,Defense.html
+Force Smash,Force_Smash.html
+Light Wheel,Light_Wheel.html
+Plastic Beyblade,Plastic_Beyblade.html
+Recoil,Recoil.html
+Smash Attack,Smash_Attack.html
+Spin Gear,Spin_Gear.html
+Spin Velocity,Spin_Velocity.html
+Survival,Survival.html
+Upper Attack,Upper_Attack.html
+Winder,Winder.html

@@ -1,0 +1,28 @@
+HMS 5 Saint Beasts Booster,HMS_5_Saint_Beasts_Booster.html
+HMS Random Booster ACT 1,HMS_Random_Booster_ACT_1.html
+HMS Random Booster ACT 2,HMS_Random_Booster_ACT_2.html
+HMS Random Booster ACT 3,HMS_Random_Booster_ACT_3.html
+HMS Random Booster ACT 4,HMS_Random_Booster_ACT_4.html
+HMS Random Booster ACT 5,HMS_Random_Booster_ACT_5.html
+Random Booster 10,Random_Booster_10.html
+Random Booster 11,Random_Booster_11.html
+Random Booster 12,Random_Booster_12.html
+Random Booster 4,Random_Booster_4.html
+Random Booster 6,Random_Booster_6.html
+Random Booster 8,Random_Booster_8.html
+Random Booster 9,Random_Booster_9.html
+Random Booster Light Vol.1 Mad Cancer CH120FS,Random_Booster_Light_Vol.1_Mad_Cancer_CH120FS.html
+Random Booster Light Vol.2 Wind Aquario 100HF/S,Random_Booster_Light_Vol.2_Wind_Aquario_100HF_S.html
+Random Booster Light Vol.3 Clay Aries ED145B,Random_Booster_Light_Vol.3_Clay_Aries_ED145B.html
+Random Booster Vol.1 Secret Aries,Random_Booster_Vol.1_Secret_Aries.html
+Random Booster Vol.2 Legend Pisces,Random_Booster_Vol.2_Legend_Pisces.html
+Random Booster Vol.3 Stardust Pegasis,Random_Booster_Vol.3_Stardust_Pegasis.html
+Random Booster Vol.4 Mirage Virgo,Random_Booster_Vol.4_Mirage_Virgo.html
+Random Booster Vol.5 Grand Ketos,Random_Booster_Vol.5_Grand_Ketos.html
+Random Booster Vol.6 Killer Beafowl,Random_Booster_Vol.6_Killer_Beafowl.html
+Random Booster Vol.7 Beat Lynx,Random_Booster_Vol.7_Beat_Lynx.html
+Random Booster Vol.8 Jade Jupiter,Random_Booster_Vol.8_Jade_Jupiter.html
+Random Booster Vol.9 Fusion Hades,Random_Booster_Vol.9_Fusion_Hades.html
+Zero-G Random Booster Vol.1 Thief Phoenic,Zero-G_Random_Booster_Vol.1_Thief_Phoenic.html
+Zero-G Random Booster Vol.2 Archer Gargole,Zero-G_Random_Booster_Vol.2_Archer_Gargole.html
+Zero-G Random Booster Vol.3 Bandid Genbull,Zero-G_Random_Booster_Vol.3_Bandid_Genbull.html

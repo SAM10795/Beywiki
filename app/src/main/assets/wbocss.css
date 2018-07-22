@@ -1,0 +1,102 @@
+body
+{
+	background-color: #efefef;
+	margin: 0px 5% 0px 5%;
+	font-size: 92%;
+}
+#mw-content-text
+{
+	font-family: Tahoma, Verdana, Arial, Sans-Serif;
+}
+h1, #mw-content-text > h2
+{
+	background-color: #013468;
+	border-bottom: 1px solid #bebebe;
+	background-size: 100%;
+	color: #ffffff;
+	padding-left: 10px;
+	-moz-border-radius-topleft: 6px;
+	-moz-border-radius-topright: 6px;
+	-webkit-border-top-left-radius: 8px;
+	-webkit-border-top-right-radius: 8px;
+	text-shadow: 1px 1px 1px #000;
+	-webkit-border-top-left-radius: 6px;
+	-webkit-border-top-right-radius: 6px;
+	-moz-border-radius-topleft: 6px;
+	-moz-border-radius-topright: 6px;
+	border-top-left-radius: 6px;
+	border-top-right-radius: 6px;
+	font-weight: bold;
+}
+span[alt="BeywikiBannerBad.jpg"]
+{
+	color:#ff2121
+}
+span[alt="BeywikiBannerGreat.jpg"]
+{
+	color:#85ff00
+}
+span[alt="BeywikiBannerOK.jpg"]
+{
+	color:#fab11c
+}
+.wikitable td
+{
+	border: thin ridge #a69d7c;
+	font-size: x-small;
+}
+.printfooter
+{
+	font-size: x-small;
+	text-align: center;
+}
+#toc
+{	
+	max-width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+	border: thin ridge #a69d7c;
+	font-size: small;
+	margin-top: 20px;
+	display: inline-block;
+}
+#toc h2
+{
+	font-size: medium;
+	text-align: center;
+}
+#toc a
+{
+	color: #dc7000;
+	word-wrap: break-word;
+}
+.new
+{
+	color: #000000;
+}
+ul
+{
+	list-style-type = none;
+}
+ul li.gallerybox
+{
+	display: inline-block;
+	max-width: 30%;
+	word-wrap: break-word;
+	margin: 10px;
+	padding-left: 5px;
+	padding-right: 5px;
+	text-align: center;
+	border: thin solid #000
+}
+.infobox-bordered
+{
+	max-width: 55%;
+	margin-top: 10px;
+	table-layout: fixed;
+	display: inline-block;
+}
+.infobox-bordered td
+{
+	word-wrap: break-word;
+}

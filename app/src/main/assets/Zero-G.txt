@@ -1,0 +1,5 @@
+Archer Gargole SA165WSF,Archer_Gargole_SA165WSF.html,,Number:BBG-17,System:Beyblade Zero-G,Type:Attack,Element:,
+Archer Gryph C145S,Archer_Gryph_C145S.html,,Number:BBG-12,System:Beyblade Zero-G,Type:Balance,Element:Thunder,
+Bandid Genbull F230TB,Bandid_Genbull_F230TB.html,,Number:BBG-23,System:Beyblade Zero-G,Type:Stamina,Element:Earth,
+Bandid Goreim DF145BS,Bandid_Goreim_DF145BS.html,,Number:BBG-20,System:Beyblade Zero-G,Type:Defense,Element:Earth,
+Berserker Begirados SR200BWD,Berserker_Begirados_SR200BWD.html,,Number:BBG-22,System:Beyblade Zero-G,Type:Stamina,Element:Earth,
